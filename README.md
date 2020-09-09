@@ -111,7 +111,7 @@ In a way science is the universe trying to understand itself. Scientists are qua
 should not be a surprise that the quantum bit is a bit like science:
 
 
-Ambiguous like a ball and can be unfortunately correctly done only by professionals.
+Ambiguous like a ball and can unfortunately be done only by professionals.
 
 
 
