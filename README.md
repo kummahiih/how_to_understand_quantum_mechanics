@@ -61,8 +61,8 @@ Lets try to define the measurement `M` of the quantum quantum bit `Q` probabilit
 `P(M(Q) = 1) = ?`
 
 
-If the probability `P(M(Q) = 0)` is directly the qubit, then it could be measured by repetitive measurements
-and thus described as a floating point variable. It has to be something more.
+If the probability `P(M(Q) = 0)` is the whole information content of the qubit, then it could be measured by repetitive measurements
+and thus described as bits. It has to be something more.
 
 ## The usual mathematical mysteries
 
@@ -86,7 +86,7 @@ So lets define:
 
 where the `a` and `b` are complex numbers `a = x_a + y_a*i` and `b = x_b + y_b*i`
 
-## The Bloch ball
+## The Bloch sphere
 
 Because the bit is either 0 or 1 `|a|^2 + |b|^2 = 1` can the qubit `Q` be formed:
 
@@ -102,16 +102,12 @@ where
 ![alpha](alpha.svg)
 
 
-![beta](beta.svg)
-
-
 ## The joke?
 
 In a way science is the universe trying to understand itself. Scientists are quantum mechanical beings, so it
 should not be a surprise that the quantum bit is a bit like science:
 
+Ambiguous like a sphere and can unfortunately be done only by professionals.
 
-Ambiguous like a ball and can unfortunately be done only by professionals.
-
-
+Kubitti on ympäripyöreä ja hieman urautunut.
 
